@@ -97,6 +97,7 @@
           }
 
   post : '/resetPassword/:id?token=&value='
+  
       id -id - new ObjectId() of otp DB
       token - jwt token
       value - otp
