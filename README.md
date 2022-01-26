@@ -1,4 +1,4 @@
-### Important
+# Important
 
  ## change .env literals
    
@@ -15,7 +15,7 @@
    
     $npm start
  
-### Server is On..!
+# Server is On..!
 
  link http://localhost:8080
 
@@ -28,15 +28,17 @@
  
  post : '/login'
    
-   body -
+  body -
+   
    
      {
        "username" : "username",
        "password" : "password"
      }
    
-   return -
-        
+   
+  return -
+     
         {
            "token" : "jwt Token",
            "message" : "Success/Failed/whatever"
@@ -82,7 +84,7 @@
 
   post : '/forgetPassword' -
 
-     body -
+   body -
 
           {
               "email": "email"
@@ -99,7 +101,7 @@
       token - jwt token
       value - otp
 
-    body -
+   body -
 
          {
              "password" : "pswd"
