@@ -2,10 +2,10 @@
 
  ## change .env literals
    
-   MONGODB_URL=
-   SMS_API_KEY=
-   EMAIL=
-   EMAIL_PSWD=
+    MONGODB_URL= 
+    SMS_API_KEY=  
+    EMAIL= 
+    EMAIL_PSWD= 
    
  ## Install All dependencies
  
