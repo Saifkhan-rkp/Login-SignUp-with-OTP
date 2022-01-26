@@ -1,0 +1,127 @@
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Your Password must contain At least one upper case English letter,At least one lower case English letter, At least one digit,At least one special character,Minimum eight in length"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:29:49 +0000] \"POST /auth/signup HTTP/1.1\" 400 193 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:30:13 +0000] \"POST /auth/signup HTTP/1.1\" 201 253 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:33:30 +0000] \"GET /verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'update' of undefined"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:36:01 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'update' of undefined"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:39:01 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'update' of undefined"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:41:29 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'update' of undefined"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:45:02 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'update' of undefined"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:46:27 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'update' of undefined"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:46:30 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:53:16 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:55:18 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:03:59:14 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:17:41 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:18:20 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:21:37 +0000] \"GET /auth/verify/61f0c0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"jwt expired"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:35:38 +0000] \"GET /auth/verify/61f0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"jwt expired"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:37:02 +0000] \"GET /auth/verify/61f0476084f332d00e3434?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcmF0QWNjIiwiaWF0IjoxNjQzMTY3ODEzLCJleHAiOjE2NDMxNzE0MTN9.zYbIL62AWiXb948dMlIpJeMg9YKI7-KJti_72pD0vc4&value=480329 HTTP/1.1\" 500 1131 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:48:33 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:50:24 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:50:49 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:53:01 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:54:28 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:57:21 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:04:58:59 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 50 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:05:03 +0000] \"POST /forgetPassword/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:09:08 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:10:20 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:12:32 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:14:44 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 160 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:36:53 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 160 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:38:59 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 160 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:50:17 +0000] \"POST /forgetPassword/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:50:43 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 204 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:55:38 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 195 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:56:34 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 232 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:58:22 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 241 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:05:59:25 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 241 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:00:48 +0000] \"POST /auth/signup HTTP/1.1\" 201 255 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:06:37 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:07:15 +0000] \"POST /forgetPassword/ HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:08:46 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 254 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:17:57 +0000] \"POST /auth/signup HTTP/1.1\" 201 284 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:18:42 +0000] \"GET /auth/verify/61f0e795c664afe98ec8177c?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3Nzg3NywiZXhwIjoxNjQzMTgxNDc3fQ.ctJ8W96xNi3lSVmz42bHQD-Huj2Pzt2kSnMPFCgzWXk&value=188804 HTTP/1.1\" 200 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:21:34 +0000] \"GET /auth/verify/61f0e795c664afe98ec8177c?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3Nzg3NywiZXhwIjoxNjQzMTgxNDc3fQ.ctJ8W96xNi3lSVmz42bHQD-Huj2Pzt2kSnMPFCgzWXk&value=188804 HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:22:37 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 255 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:32:15 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:33:02 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:33:19 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:33:23 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:35:51 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 200 29 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:36:50 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 200 29 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:37:18 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 200 29 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:47:31 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:48:35 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:49:42 +0000] \"POST /resetPassword/61f0e8ad9aeee33fd075f53e?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3ODE1NSwiZXhwIjoxNjQzMTgxNzU1fQ.Zdf5cqq2McAVUKqmnxq-NTcV2yjDmJrdn401j3JBbcM&value=366522 HTTP/1.1\" 200 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:50:06 +0000] \"POST /forgetPassword/ HTTP/1.1\" 200 255 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:51:51 +0000] \"GET /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:51:58 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:52:45 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:57:07 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:57:53 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 39 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:06:58:26 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:00:50 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Please enter valid username or Password"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:01:46 +0000] \"POST /auth/login HTTP/1.1\" 404 53 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Please enter valid username or Password"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:05:32 +0000] \"POST /auth/login HTTP/1.1\" 404 53 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:06:11 +0000] \"POST /auth/login HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:06:39 +0000] \"POST /auth/login HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:07:25 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:07:58 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:08:07 +0000] \"POST /resetPassword/61f0ef1e8617d05c2e6c68c3?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNlY0FjYyIsImlhdCI6MTY0MzE3OTgwNCwiZXhwIjoxNjQzMTgzNDA0fQ.yEiN7InS_JQgHH2d3jicdgrQ6LbTu1QNVE-tm9MguXg&value=765324 HTTP/1.1\" 201 42 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Please enter valid username or Password"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:09:14 +0000] \"POST /auth/login HTTP/1.1\" 404 53 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:10:41 +0000] \"POST /auth/login HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Please enter valid username or Password"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:11:43 +0000] \"POST /auth/login HTTP/1.1\" 404 53 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Please enter valid username or Password"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:12:15 +0000] \"POST /auth/login HTTP/1.1\" 404 53 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [26/Jan/2022:07:12:54 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
