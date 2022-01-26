@@ -1,3 +1,6 @@
+#first 
+$npm install
+
 ###Server is On..!
  link http://localhost:8080
 
@@ -6,9 +9,17 @@
 
 
  ##Routes
+ 
+ 
  post : '/login'
+ 
+     {
+       username : username,
+       password : password
+     }
 
- post : '/signup' -
+ post : '/signup' 
+ 
         {
             username : un,
             password : pswd,
@@ -17,21 +28,29 @@
             first_name : f_n,
             last_name : l_n            
         }
+        
+      
 get : '/verify/:id'
+
     /verify/:id?token=&value=
     id - new ObjectId() of otp DB
     token - jwt token
     value - otp
-.get('/resendOTP',resendOTP);
+    
+get : '/resendOTP'
 
 post : '/forgetPassword' -
+
         {
             email: email
         }
+        
         or 
+        
         {
             phone : phone
         }
+        
 post : '/resetPassword/:id?token=&value='
     id -id - new ObjectId() of otp DB
     token - jwt token
